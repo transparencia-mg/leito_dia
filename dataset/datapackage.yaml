@@ -15,6 +15,7 @@ resources:
       fields:
         - name: unidade
           type: string
+          description: xxxxx
         - name: ano
           type: integer
         - name: mes
