@@ -18,7 +18,8 @@
         "fields": [
           {
             "name": "unidade",
-            "type": "string"
+            "type": "string",
+            "description": "xxxxx"
           },
           {
             "name": "ano",
