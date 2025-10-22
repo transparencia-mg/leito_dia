@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.02,
+  "time": 0.021,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "description": "Dados de leito-dia por unidade Fhemig.",
         "dialect": {
           "delimiter": ";"
         },
@@ -37,7 +37,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Insira um título humanamente legível para este recurso.",
+        "title": "Leito-dia 2025.",
         "stats": {
           "hash": "ca3eb334c3486760c198e8a7254a8181",
           "bytes": 2636,
