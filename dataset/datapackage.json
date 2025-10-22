@@ -4,7 +4,7 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Insira a descrição/explicação detalhada deste recurso.",
+      "description": "Dados de leito-dia por unidade Fhemig.",
       "dialect": {
         "delimiter": ";"
       },
@@ -36,7 +36,7 @@
         ]
       },
       "scheme": "file",
-      "title": "Insira um título humanamente legível para este recurso."
+      "title": "Leito-dia 2025."
     }
   ],
   "title": "Leito dia"
