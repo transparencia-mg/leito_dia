@@ -15,7 +15,7 @@ resources:
       fields:
         - name: unidade
           type: string
-          description: xxxxx
+          description: Sigla da unidade FHEMIG: HJP - Hospital João Penido
         - name: ano
           type: integer
         - name: mes
