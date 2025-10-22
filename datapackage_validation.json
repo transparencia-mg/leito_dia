@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.021,
+  "time": 0.018,
   "errors": [],
   "tasks": [
     {
@@ -20,7 +20,7 @@
             {
               "name": "unidade",
               "type": "string",
-              "description": "xxxxx"
+              "description": "Sigla da unidade FHEMIG HJP Hospital João Penido"
             },
             {
               "name": "ano",
@@ -45,7 +45,7 @@
           "rows": 153
         }
       },
-      "time": 0.012,
+      "time": 0.011,
       "scope": [
         "hash-count-error",
         "byte-count-error",
