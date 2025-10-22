@@ -2,7 +2,7 @@ name: leito_dia
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
-  - description: Insira a descrição/explicação detalhada deste recurso.
+  - description: Dados de leito-dia por unidade Fhemig.
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -23,5 +23,5 @@ resources:
         - name: leito_dia
           type: integer
     scheme: file
-    title: Insira um título humanamente legível para este recurso.
+    title: Leito-dia 2025.
 title: Leito dia
