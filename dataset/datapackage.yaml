@@ -26,5 +26,5 @@ resources:
           type: integer
           description: "Total de leitos dia (soma dos leitos hospitalares disponíveis por dia hospitalar no período."
     scheme: file
-    title: Leito-dia 2025.
+    title: Leito dia a partir de 2025.
 title: Leito Dia
