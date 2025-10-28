@@ -2,7 +2,7 @@ name: leito_dia
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
-  - description: Dados de leito-dia por unidade Fhemig0 a partir de 2025.
+  - description: Dados de leito-dia por unidade Fhemig a partir de 2025.
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -24,7 +24,7 @@ resources:
           description: "Mês de referência."
         - name: leito_dia
           type: integer
-          description: "Total de leitos dia (soma dos leitos hospitalares disponíveis por dia hospitalar no período."
+          description: "Total de leitos dia (soma dos leitos hospitalares disponíveis por dia hospitalar no período)."
     scheme: file
     title: Leito dia a partir de 2025.
 title: Leito Dia
