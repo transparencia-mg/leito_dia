@@ -4,7 +4,7 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Dados de leito-dia por unidade Fhemig a partir de 2025.",
+      "description": "Dados de leito-dia por unidade FHEMIG a partir de 2025.",
       "dialect": {
         "delimiter": ";"
       },
