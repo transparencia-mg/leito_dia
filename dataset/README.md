@@ -1,4 +1,4 @@
-Conjunto de dados referentes a unidade de medida que representa a disponibilidade de um leito hospitalar de internação por um dia hospitalar. 
+Conjunto de dados referentes a unidade de medida que representa a disponibilidade de um leito hospitalar de internação por um dia hospitalar.. 
 
 Termos relacionados: leito hospitalar de internação, dia hospitalar. 
 
@@ -26,4 +26,5 @@ Além disso, fique a vontade para utilizar os demais canais oficiais de atendime
 - [Manifestações de Ouvidoria](https://www.ouvidoriageral.mg.gov.br/): Denúncia, Reclamação, Crítica, Elogio ou Sugestões.
 - [Pedido de Acesso à Informação](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx): Acesso às informações dos órgãos e entidades estaduais que não estejam publicamente disponíveis.
 - [Pedido de abertura de bases de dados](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx): Solicitação de abertura de bases de dados dos órgãos e entidades que não estejam publicamente disponíveis.
+
 
