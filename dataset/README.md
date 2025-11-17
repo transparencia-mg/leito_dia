@@ -2,7 +2,7 @@ Conjunto de dados referentes a unidade de medida que representa a disponibilidad
 
 Termos relacionados: leito hospitalar de internação, dia hospitalar. 
 
-Notas técnicas: os leitos/dia correspondem aos leitos operacionais ou disponíveis, aí incluídos os leitos extras com pacientes internados, o que significa que o número de leitos/dia pode variar de um dia para outro de acordo com o bloqueio e desbloqueio de leitos e com a utilização de leitos extras. 
+Notas técnicas: os leitos/dia correspondem aos leitos operacionais ou disponíveis, aí incluídos os leitos extras com pacientes internados, o que significa que o número de leitos/dia pode variar de um dia para outro de acordo com o bloqueio e desbloqueio de leitos e com a utilização de leitos extras.. 
 
 Fonte: https://bvsms.saude.gov.br/bvs/publicacoes/padronizacao_censo.pdf
 
@@ -26,3 +26,4 @@ Além disso, fique a vontade para utilizar os demais canais oficiais de atendime
 - [Manifestações de Ouvidoria](https://www.ouvidoriageral.mg.gov.br/): Denúncia, Reclamação, Crítica, Elogio ou Sugestões.
 - [Pedido de Acesso à Informação](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx): Acesso às informações dos órgãos e entidades estaduais que não estejam publicamente disponíveis.
 - [Pedido de abertura de bases de dados](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx): Solicitação de abertura de bases de dados dos órgãos e entidades que não estejam publicamente disponíveis.
+
