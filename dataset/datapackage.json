@@ -34,7 +34,12 @@
           {
             "name": "leito_dia",
             "type": "integer",
-            "description": "Total de leitos dia (soma dos leitos hospitalares disponíveis por dia hospitalar no período)."
+            "description": "Total de leitos dia (soma dos leitos hospitalares disponíveis por dia hospitalar no período). Equivalente a leito disponível (inclui o leito extra ocupado)."
+          },
+          {
+            "name": "leito_operacional_sem_extra",
+            "type": "integer",
+            "description": "Total de leitos dia excluídos os leitos extra ocupados."
           }
         ]
       },
